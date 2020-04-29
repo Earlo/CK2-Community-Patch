@@ -1,7 +1,7 @@
-name="Community Patch"
-archive="mod/community_patch.zip"
+name="Expanded Community Patch"
+archive="mod/CRH.zip"
 tags=
 {
-	Community Patch Fix Bugfix AI PDXPLS 
+	Expanded Community Patch Fix Bugfix AI PDXPLS 
 }
 picture="versionicon.png"
