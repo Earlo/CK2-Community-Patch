@@ -1328,6 +1328,8 @@ pagan_group = {
 			#key = "DEF_RELIGION_HOME_TERRITORY"
 		#}
 
+		seafarer = yes
+		allow_rivermovement = yes
 		priests_can_marry = yes
 		female_temple_holders = yes
 		can_call_crusade = yes
@@ -1387,7 +1389,9 @@ pagan_group = {
 			
 			key = "DEF_RELIGION_HOME_TERRITORY"
 		}
-		
+
+		seafarer = yes
+		allow_rivermovement = yes
 		priests_can_marry = yes
 		female_temple_holders = yes
 		defensive_attrition = yes
@@ -1460,6 +1464,8 @@ pagan_group = {
 			#key = "DEF_RELIGION_HOME_TERRITORY"
 		#}
 		
+		seafarer = yes
+		allow_rivermovement = yes
 		priests_can_marry = yes
 		female_temple_holders = yes
 		can_call_crusade = yes
@@ -1525,7 +1531,9 @@ pagan_group = {
 			
 			key = "DEF_RELIGION_HOME_TERRITORY"
 		}
-		
+				
+		seafarer = yes
+		allow_rivermovement = yes
 		priests_can_marry = yes
 		female_temple_holders = yes
 		defensive_attrition = yes
