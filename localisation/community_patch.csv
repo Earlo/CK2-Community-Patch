@@ -1,3 +1,19 @@
-EVTDESCCOPA1;With the unexpected death of [From.GetTitledFirstName] [From.GetHerHis] Coronation has been cancelled.;Avec la mort inattendue du pretre sensé officier, [From.Get_le_TitledFirstName] a du reporter r une date inconnue le couronnement.;Mit dem unerwarteten Tod des Priesters, der die Zeremonie leiten sollte, scheint [From.GetTitledFirstName] gezwungen, [From.GetHerHis]e Krönung auf unbestimmte Zeit zu verschieben.;;Con la inesperada muerte del sacerdote que iba a oficiar la ceremonia, parece que [From.GetTitledFirstName] se ha visto obligado a posponer la coronación indefinidamente.;;;;;;;;x
-EVTOPTACOPA1;How unfortunate for [From.GetHerHim].;C'est malheureux pour [From.GetLuiElle].;Äußerst bedauerlich für [From.Getihnsie];;Qué mala suerte tiene.;;;;;;;;x
-obj_create_treasury_desc;[This.GetTitledFirstName] wants to gather artifacts to put in [This.GetHerHis] empty treasury.;[This.Get_Le_TitledFirstName] veut réunir des artefacts pour son Trésor vide.;[This.GetTitledFirstName] möchte Artefakte sammeln und sie in der leeren Schatzkammer ausstellen.;;[This.GetTitledFirstName] quiere reunir artefactos que poner en su cámara del tesoro vacía.;;;;;x
+EVTDESCCOPA1;With the unexpected death of [From.GetTitledFirstName] [From.GetHerHis] Coronation has been cancelled.;Avec la mort inattendue du pretre sensï¿½ officier, [From.Get_le_TitledFirstName] a du reporter r une date inconnue le couronnement.;Mit dem unerwarteten Tod des Priesters, der die Zeremonie leiten sollte, scheint [From.GetTitledFirstName] gezwungen, [From.GetHerHis]e Krï¿½nung auf unbestimmte Zeit zu verschieben.;;Con la inesperada muerte del sacerdote que iba a oficiar la ceremonia, parece que [From.GetTitledFirstName] se ha visto obligado a posponer la coronaciï¿½n indefinidamente.;;;;;;;;x
+EVTOPTACOPA1;How unfortunate for [From.GetHerHim].;C'est malheureux pour [From.GetLuiElle].;ï¿½uï¿½erst bedauerlich fï¿½r [From.Getihnsie];;Quï¿½ mala suerte tiene.;;;;;;;;x
+obj_create_treasury_desc;[This.GetTitledFirstName] wants to gather artifacts to put in [This.GetHerHis] empty treasury.;[This.Get_Le_TitledFirstName] veut rï¿½unir des artefacts pour son Trï¿½sor vide.;[This.GetTitledFirstName] mï¿½chte Artefakte sammeln und sie in der leeren Schatzkammer ausstellen.;;[This.GetTitledFirstName] quiere reunir artefactos que poner en su cï¿½mara del tesoro vacï¿½a.;;;;;x
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_barony_of_zun_pagan;Sun Altar of;Autel Solaire de;Sonnenaltar von;;Altar Solar de;;;;;;;;;x
+temple_barony_of_norse_pagan;Shrine of;Tombeau de;Schrein von;;Santuario de;;;;;;;;;x
+temple_barony_of_baltic_pagan;Sanctuary of;Sanctuaire de;Heiligtum von;;Santuario de;;;;;;;;;x
+temple_barony_of_slavic_pagan;Shrine of;Tombeau de;Schrein von;;Santuario de;;;;;;;;;
+temple_barony_of_finnish_pagan;Shrine of;Tombeau de;Schrein von;;Santuario de;;;;;;;;;
+temple_barony_of_west_african_pagan;Shrine of;Tombeau de;Schrein von;;Santuario de;;;;;;;;;
+temple_barony_of_tengri_pagan;Shrine of;Tombeau de;Schrein von;;Santuario de;;;;;;;;;
+temple_barony_of_hellenic_pagan;Shrine of;Tombeau de;Schrein von;;Santuario de;;;;;;;;;
+temple_baron_baltic_pagan;Priest;Pretre;Priester;;Sacerdote;;;;;;;;;
+temple_baron_baltic_pagan_reformed;Priest;Pretre;Priester;;Sacerdote;;;;;;;;;
+temple_baron_finnish_pagan;Priest;Pretre;Priester;;Sacerdote;;;;;;;;;
+temple_baron_finnish_pagan_reformed;Priest;Pretre;Priester;;Sacerdote;;;;;;;;;
+temple_baron_slavic_pagan;Priest;Pretre;Priester;;Sacerdote;;;;;;;;;
+temple_baron_slavic_pagan_reformed;Priest;Pretre;Priester;;Sacerdote;;;;;;;;;
+temple_barony_of_jewish;Synagogue of;Synagogue de;Synagoge von;;Sinagoga de;;;;;;;;;
