@@ -2030,11 +2030,13 @@ ravager = {
 			religion = norse_pagan_reformed
 			any_owned_bloodline = {
 				has_bloodline_flag = bloodline_viking
-			}
-			AND = {
-				has_religion_feature = religion_adventuring
-				has_religion_feature = religion_seafaring
-			}
+			}			
+			has_religion_feature = religion_adventuring
+			has_religion_feature = religion_seafaring
+			culture = maghreb_arabic
+			is_tribal = yes
+			has_religion_feature = religion_feature_aztec
+			has_religion_feature = religion_feature_slavic
 		}
 	}
 	opposites =  {
@@ -2068,10 +2070,12 @@ seaking = {
 			any_owned_bloodline = {
 				has_bloodline_flag = bloodline_viking
 			}
-			AND = {
-				has_religion_feature = religion_adventuring
-				has_religion_feature = religion_seafaring
-			}
+			has_religion_feature = religion_adventuring
+			has_religion_feature = religion_seafaring				
+			culture = maghreb_arabic
+			is_tribal = yes
+			has_religion_feature = religion_feature_aztec
+			has_religion_feature = religion_feature_slavic	
 		}
 	}
 	opposites =  {
@@ -2209,10 +2213,12 @@ sea_queen = {
 			any_owned_bloodline = {
 				has_bloodline_flag = bloodline_viking
 			}
-			AND = {
-				has_religion_feature = religion_adventuring
-				has_religion_feature = religion_seafaring
-			}
+			has_religion_feature = religion_adventuring
+			has_religion_feature = religion_seafaring
+			culture = maghreb_arabic
+			is_tribal = yes
+			has_religion_feature = religion_feature_aztec
+			has_religion_feature = religion_feature_slavic	
 		}
 	}
 	opposites =  {
@@ -7525,10 +7531,17 @@ pirate = {
 			religion = norse_pagan
 			religion = norse_pagan_reformed
 			has_character_flag = acquired_pirate_trait_by_bloodline
-			AND = {
-				has_religion_feature = religion_adventuring
-				has_religion_feature = religion_seafaring
-			}
+			any_owned_bloodline = {
+				has_bloodline_flag = bloodline_viking
+				}
+			
+			has_religion_feature = religion_adventuring
+			has_religion_feature = religion_seafaring
+			culture = maghreb_arabic
+			is_tribal = yes
+			has_religion_feature = religion_feature_aztec
+			has_religion_feature = religion_feature_slavic
+			
 		}
 	}
 	opposites =  {
